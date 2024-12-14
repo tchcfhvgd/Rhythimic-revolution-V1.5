@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="meme.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="meme1 인스턴스 10000" x="3667" y="1086" width="297" height="454" frameX="-122" frameY="-44" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10001" x="3667" y="561" width="404" height="515" frameX="-68" frameY="-13" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10002" x="3222" y="10" width="483" height="541" frameX="-29" frameY="0" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10003" x="1096" y="10" width="541" height="511" frameX="0" frameY="-15" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10004" x="2170" y="993" width="513" height="399" frameX="-14" frameY="-71" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10005" x="3083" y="1099" width="457" height="303" frameX="-42" frameY="-119" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10006" x="1642" y="562" width="499" height="372" frameX="-21" frameY="-85" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10007" x="2161" y="522" width="537" height="461" frameX="-2" frameY="-40" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10008" x="10" y="10" width="527" height="535" frameX="-7" frameY="-3" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10009" x="547" y="536" width="457" height="535" frameX="-42" frameY="-3" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10010" x="2708" y="939" width="365" height="495" frameX="-88" frameY="-23" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10011" x="3715" y="10" width="301" height="456" frameX="-539" frameY="-44" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10012" x="1014" y="998" width="365" height="495" frameX="-88" frameY="-23" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10013" x="10" y="555" width="441" height="530" frameX="-50" frameY="-6" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10014" x="2713" y="10" width="499" height="542" frameX="-21" frameY="0" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10015" x="547" y="10" width="539" height="516" frameX="-1" frameY="-13" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10016" x="1642" y="993" width="518" height="410" frameX="-12" frameY="-66" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10017" x="461" y="1081" width="462" height="309" frameX="-40" frameY="-116" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10018" x="2708" y="562" width="496" height="367" frameX="-23" frameY="-87" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10019" x="1096" y="531" width="536" height="457" frameX="-3" frameY="-42" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10020" x="2161" y="10" width="542" height="502" frameX="0" frameY="-20" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10021" x="1647" y="10" width="504" height="542" frameX="-19" frameY="0" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme1 인스턴스 10022" x="3222" y="561" width="435" height="528" frameX="-53" frameY="-7" frameWidth="840" frameHeight="542"/>
+	<SubTexture name="meme2 인스턴스 10000" x="605" y="1400" width="390" height="319" frameX="0" frameY="-141" frameWidth="390" frameHeight="462"/>
+	<SubTexture name="meme2 인스턴스 10001" x="2170" y="1402" width="358" height="346" frameX="-16" frameY="-114" frameWidth="390" frameHeight="462"/>
+	<SubTexture name="meme2 인스턴스 10002" x="10" y="1095" width="298" height="445" frameX="-46" frameY="-17" frameWidth="390" frameHeight="462"/>
+	<SubTexture name="meme2 인스턴스 10003" x="318" y="1400" width="277" height="462" frameX="-56" frameY="0" frameWidth="390" frameHeight="462"/>
+</TextureAtlas>
