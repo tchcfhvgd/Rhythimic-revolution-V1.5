@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shirokill.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shiro 10000" x="793" y="10" width="773" height="562" frameX="0" frameY="0" frameWidth="773" frameHeight="563"/>
+	<SubTexture name="shiro 10001" x="10" y="10" width="773" height="563"/>
+</TextureAtlas>
