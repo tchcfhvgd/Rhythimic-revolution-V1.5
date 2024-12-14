@@ -1,0 +1,6 @@
+<value1>
+text for subtitle
+
+<value2>
+color code
+(ex: FFFFFF = white)
