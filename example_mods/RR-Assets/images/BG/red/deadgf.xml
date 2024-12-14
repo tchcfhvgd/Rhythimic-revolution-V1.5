@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deadgf.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="deadgf 10000" x="10" y="10" width="458" height="199" frameX="0" frameY="-5" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10001" x="10" y="10" width="458" height="199" frameX="0" frameY="-5" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10002" x="478" y="10" width="458" height="199" frameX="0" frameY="-4" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10003" x="478" y="10" width="458" height="199" frameX="0" frameY="-4" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10004" x="10" y="219" width="451" height="201" frameX="-7" frameY="-1" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10005" x="10" y="219" width="451" height="201" frameX="-7" frameY="-1" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10006" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10007" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10008" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10009" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10010" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10011" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10012" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10013" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10014" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10015" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10016" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10017" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10018" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10019" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10020" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10021" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10022" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+	<SubTexture name="deadgf 10023" x="471" y="219" width="450" height="202" frameX="-8" frameY="0" frameWidth="458" frameHeight="204"/>
+</TextureAtlas>
