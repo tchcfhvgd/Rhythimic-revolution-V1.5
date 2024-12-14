@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flake.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flake 10000" x="1227" y="10" width="290" height="762" frameX="-3" frameY="-7" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10001" x="1227" y="10" width="290" height="762" frameX="-3" frameY="-7" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10002" x="925" y="10" width="292" height="768" frameX="0" frameY="-2" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10003" x="925" y="10" width="292" height="768" frameX="0" frameY="-2" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10004" x="10" y="10" width="296" height="770" frameX="-2" frameY="0" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10005" x="10" y="10" width="296" height="770" frameX="-2" frameY="0" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10006" x="621" y="10" width="294" height="770" frameX="-12" frameY="0" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10007" x="621" y="10" width="294" height="770" frameX="-12" frameY="0" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10008" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10009" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10010" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10011" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10012" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10013" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10014" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10015" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10016" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10017" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10018" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10019" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10020" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10021" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10022" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+	<SubTexture name="flake 10023" x="316" y="10" width="295" height="769" frameX="-12" frameY="-1" frameWidth="307" frameHeight="770"/>
+</TextureAtlas>
