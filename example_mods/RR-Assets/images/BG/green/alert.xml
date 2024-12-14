@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alert.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alert 인스턴스 10000" x="10" y="10" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10001" x="655" y="10" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10002" x="1300" y="10" width="635" height="187" frameX="0" frameY="-88" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10003" x="1945" y="10" width="635" height="187" frameX="0" frameY="-88" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10004" x="2590" y="10" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10005" x="3235" y="10" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10006" x="10" y="295" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10007" x="655" y="295" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10008" x="1300" y="295" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10009" x="1945" y="295" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10010" x="2590" y="295" width="635" height="187" frameX="0" frameY="-88" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10011" x="3235" y="295" width="635" height="187" frameX="0" frameY="-88" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10012" x="10" y="580" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10013" x="655" y="580" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10014" x="1300" y="580" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10015" x="1945" y="580" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10016" x="2590" y="580" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10017" x="3235" y="580" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10018" x="10" y="865" width="635" height="187" frameX="0" frameY="-88" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10019" x="655" y="865" width="635" height="187" frameX="0" frameY="-88" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10020" x="1300" y="865" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10021" x="1945" y="865" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10022" x="2590" y="865" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10023" x="3235" y="865" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10024" x="10" y="1150" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10025" x="655" y="1150" width="635" height="173" frameX="0" frameY="-102" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10026" x="1300" y="1150" width="635" height="173" frameX="0" frameY="-102" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10027" x="1945" y="1150" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10028" x="2590" y="1150" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10029" x="3235" y="1150" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10030" x="10" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10031" x="655" y="1435" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10032" x="1300" y="1435" width="635" height="275"/>
+	<SubTexture name="alert 인스턴스 10033" x="1945" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10034" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10035" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10036" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10037" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10038" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10039" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10040" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10041" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10042" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10043" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10044" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10045" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10046" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10047" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10048" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10049" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10050" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10051" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+	<SubTexture name="alert 인스턴스 10052" x="2590" y="1435" width="635" height="181" frameX="0" frameY="-94" frameWidth="635" frameHeight="275"/>
+</TextureAtlas>
