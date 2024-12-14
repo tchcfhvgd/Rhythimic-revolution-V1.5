@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				312
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				312
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				313
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				313
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				310
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				313
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "intro",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				305
+			],
+			"anim": "behind",
+			"fps": 24,
+			"name": "behind",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dillaw-overload",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-dillaw-overload",
+	"flip_x": false,
+	"healthbar_colors": [
+		170,
+		33,
+		241
+	],
+	"camera_position": [
+		20,
+		-300
+	],
+	"sing_duration": 8.09999999999999,
+	"scale": 1
+}

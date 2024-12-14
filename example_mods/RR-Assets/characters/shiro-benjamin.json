@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				32,
+				352
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				114,
+				350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				44,
+				350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				225,
+				458
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				53,
+				360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				300
+			],
+			"anim": "gun",
+			"fps": 24,
+			"name": "gun",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shiro-supernova",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-benjamin",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		10,
+		135
+	],
+	"camera_position": [
+		-30,
+		-310
+	],
+	"sing_duration": 8.09999999999999,
+	"scale": 1
+}

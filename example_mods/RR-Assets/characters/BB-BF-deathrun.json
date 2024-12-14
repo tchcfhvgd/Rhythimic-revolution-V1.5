@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-15,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				78
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				142
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				173
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				105
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				79
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				79
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				79
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				79
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "d-alt"
+		},
+		{
+			"offsets": [
+				77,
+				117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "l-alt"
+		},
+		{
+			"offsets": [
+				-42,
+				173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "u-alt"
+		},
+		{
+			"offsets": [
+				-48,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "r-alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				121
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "dodge"
+		},
+		{
+			"offsets": [
+				-40,
+				133
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "surprised",
+			"indices": [],
+			"name": "surprised"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BB-BF-deathrun",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		23,
+		149,
+		230
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4.5,
+	"scale": 1
+}

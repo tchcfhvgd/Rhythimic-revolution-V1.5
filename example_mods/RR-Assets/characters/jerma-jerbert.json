@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-88,
+				332
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				342
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				237,
+				356
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				178,
+				334
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				380
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-80,
+				300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "gun",
+			"indices": [],
+			"name": "gun"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				315
+			],
+			"anim": "transform",
+			"fps": 24,
+			"name": "transform",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jerma-jerbert",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-jerma-jerbert",
+	"flip_x": false,
+	"healthbar_colors": [
+		91,
+		6,
+		6
+	],
+	"camera_position": [
+		-10,
+		-230
+	],
+	"sing_duration": 8.4,
+	"scale": 1
+}

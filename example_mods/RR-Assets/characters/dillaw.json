@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-28,
+				312
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-28,
+				312
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				167,
+				313
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				50,
+				313
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-27,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-24,
+				313
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "intro",
+			"loop": false,
+			"name": "intro"
+		},
+		{
+			"offsets": [
+				-50,
+				305
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "behind",
+			"loop": true,
+			"name": "behind"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dillaw",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-dillaw",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		20,
+		-300
+	],
+	"sing_duration": 8.09999999999999,
+	"scale": 1
+}
