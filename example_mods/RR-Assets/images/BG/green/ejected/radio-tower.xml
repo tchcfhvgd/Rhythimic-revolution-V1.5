@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="radio-tower.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tower 10000" x="10" y="10" width="573" height="1884" frameX="-3" frameY="0" frameWidth="576" frameHeight="1884"/>
+	<SubTexture name="tower 10001" x="593" y="10" width="569" height="1884" frameX="-7" frameY="0" frameWidth="576" frameHeight="1884"/>
+	<SubTexture name="tower 10002" x="1172" y="10" width="576" height="1884"/>
+</TextureAtlas>

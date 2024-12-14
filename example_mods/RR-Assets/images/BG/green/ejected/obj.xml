@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="obj.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="falling1 10000" x="10" y="10" width="358" height="470" frameX="-6" frameY="-9" frameWidth="364" frameHeight="479"/>
+	<SubTexture name="falling1 10001" x="378" y="10" width="364" height="322" frameX="0" frameY="-157" frameWidth="364" frameHeight="479"/>
+	<SubTexture name="falling1 10002" x="752" y="10" width="361" height="479" frameX="-3" frameY="0" frameWidth="364" frameHeight="479"/>
+	<SubTexture name="falling2 10000" x="1123" y="10" width="227" height="389" frameX="0" frameY="-34" frameWidth="227" frameHeight="423"/>
+	<SubTexture name="falling2 10001" x="1360" y="10" width="227" height="417" frameX="0" frameY="-6" frameWidth="227" frameHeight="423"/>
+	<SubTexture name="falling2 10002" x="1597" y="10" width="227" height="423"/>
+</TextureAtlas>
