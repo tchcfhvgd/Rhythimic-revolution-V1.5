@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backchef.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="orange 인스턴스 10000" x="731" y="767" width="341" height="691" frameX="0" frameY="-11" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10001" x="731" y="767" width="341" height="691" frameX="0" frameY="-11" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10002" x="1437" y="758" width="350" height="702" frameX="-2" frameY="0" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10003" x="1437" y="758" width="350" height="702" frameX="-2" frameY="0" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10004" x="1087" y="762" width="333" height="692" frameX="-19" frameY="-10" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10005" x="1087" y="762" width="333" height="692" frameX="-19" frameY="-10" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10006" x="10" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10007" x="10" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10008" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10009" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10010" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10011" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10012" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10013" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10014" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10015" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10016" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10017" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10018" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10019" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10020" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10021" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10022" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="orange 인스턴스 10023" x="323" y="769" width="303" height="682" frameX="-23" frameY="-21" frameWidth="352" frameHeight="703"/>
+	<SubTexture name="shark 인스턴스 10000" x="1437" y="10" width="341" height="738" frameX="-10" frameY="-10" frameWidth="351" frameHeight="749"/>
+	<SubTexture name="shark 인스턴스 10001" x="1437" y="10" width="341" height="738" frameX="-10" frameY="-10" frameWidth="351" frameHeight="749"/>
+	<SubTexture name="shark 인스턴스 10002" x="1087" y="10" width="340" height="742" frameX="-11" frameY="-6" frameWidth="351" frameHeight="749"/>
+	<SubTexture name="shark 인스턴스 10003" x="1087" y="10" width="340" height="742" frameX="-11" frameY="-6" frameWidth="351" frameHeight="749"/>
+	<SubTexture name="shark 인스턴스 10004" x="731" y="10" width="346" height="747" frameX="-5" frameY="-2" frameWidth="351" frameHeight="749"/>
+	<SubTexture name="shark 인스턴스 10005" x="731" y="10" width="346" height="747" frameX="-5" frameY="-2" frameWidth="351" frameHeight="749"/>
+	<SubTexture name="shark 인스턴스 10006" x="371" y="10" width="350" height="749" frameX="-1" frameY="0" frameWidth="351" frameHeight="749"/>
+	<SubTexture name="shark 인스턴스 10007" x="371" y="10" width="350" height="749" frameX="-1" frameY="0" frameWidth="351" frameHeight="749"/>
+	<SubTexture name="shark 인스턴스 10008" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10009" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10010" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10011" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10012" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10013" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10014" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10015" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10016" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10017" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10018" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10019" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10020" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10021" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10022" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="shark 인스턴스 10023" x="10" y="10" width="351" height="749"/>
+	<SubTexture name="william 인스턴스 10000" x="10" y="1461" width="258" height="445" frameX="0" frameY="0" frameWidth="258" frameHeight="446"/>
+	<SubTexture name="william 인스턴스 10001" x="10" y="1461" width="258" height="445" frameX="0" frameY="0" frameWidth="258" frameHeight="446"/>
+	<SubTexture name="william 인스턴스 10002" x="1082" y="1464" width="257" height="446" frameX="-1" frameY="0" frameWidth="258" frameHeight="446"/>
+	<SubTexture name="william 인스턴스 10003" x="1082" y="1464" width="257" height="446" frameX="-1" frameY="0" frameWidth="258" frameHeight="446"/>
+	<SubTexture name="william 인스턴스 10004" x="278" y="1461" width="258" height="445" frameX="0" frameY="0" frameWidth="258" frameHeight="446"/>
+	<SubTexture name="william 인스턴스 10005" x="278" y="1461" width="258" height="445" frameX="0" frameY="0" frameWidth="258" frameHeight="446"/>
+</TextureAtlas>
