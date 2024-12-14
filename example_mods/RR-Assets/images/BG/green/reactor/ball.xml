@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ball.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ball 10000" x="10" y="10" width="965" height="593" frameX="-30" frameY="-116" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10001" x="985" y="10" width="918" height="645" frameX="-76" frameY="-67" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10002" x="1913" y="10" width="1241" height="757" frameX="0" frameY="-158" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10003" x="3164" y="10" width="1187" height="806" frameX="-45" frameY="-163" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10004" x="4361" y="10" width="940" height="842" frameX="-295" frameY="-166" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10005" x="5311" y="10" width="978" height="865" frameX="-249" frameY="-162" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10006" x="6299" y="10" width="857" height="857" frameX="-246" frameY="-163" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10007" x="7166" y="10" width="845" height="883" frameX="-278" frameY="-166" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10008" x="10" y="903" width="701" height="546" frameX="-431" frameY="-162" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10009" x="721" y="903" width="676" height="546" frameX="-446" frameY="-163" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10010" x="1407" y="903" width="566" height="546" frameX="-428" frameY="-166" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10011" x="1983" y="903" width="567" height="546" frameX="-431" frameY="-162" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10012" x="2560" y="903" width="549" height="546" frameX="-446" frameY="-163" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10013" x="3119" y="903" width="670" height="546" frameX="-324" frameY="-166" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10014" x="3799" y="903" width="759" height="596" frameX="-344" frameY="-162" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10015" x="4568" y="903" width="740" height="750" frameX="-344" frameY="-26" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10016" x="5318" y="903" width="767" height="767" frameX="-328" frameY="-39" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10017" x="6095" y="903" width="567" height="793" frameX="-431" frameY="-23" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10018" x="6672" y="903" width="549" height="836" frameX="-446" frameY="0" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10019" x="1407" y="903" width="566" height="546" frameX="-428" frameY="-166" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10020" x="1983" y="903" width="567" height="546" frameX="-431" frameY="-162" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10021" x="2560" y="903" width="549" height="546" frameX="-446" frameY="-163" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10022" x="1407" y="903" width="566" height="546" frameX="-428" frameY="-166" frameWidth="1241" frameHeight="1049"/>
+	<SubTexture name="ball 10023" x="1983" y="903" width="567" height="546" frameX="-431" frameY="-162" frameWidth="1241" frameHeight="1049"/>
+</TextureAtlas>
