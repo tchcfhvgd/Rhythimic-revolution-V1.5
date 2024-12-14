@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-leg.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="leg 10000" x="435" y="420" width="175" height="281" frameX="-161" frameY="0" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10001" x="435" y="420" width="175" height="281" frameX="-161" frameY="0" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10002" x="10" y="627" width="403" height="195" frameX="-77" frameY="-50" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10003" x="10" y="627" width="403" height="195" frameX="-77" frameY="-50" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10004" x="10" y="420" width="415" height="197" frameX="-79" frameY="-34" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10005" x="10" y="420" width="415" height="197" frameX="-79" frameY="-34" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10006" x="465" y="210" width="412" height="192" frameX="-79" frameY="-42" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10007" x="465" y="210" width="412" height="192" frameX="-79" frameY="-42" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10008" x="435" y="420" width="175" height="281" frameX="-161" frameY="0" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10009" x="435" y="420" width="175" height="281" frameX="-161" frameY="0" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10010" x="10" y="210" width="445" height="200" frameX="-21" frameY="-48" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10011" x="10" y="210" width="445" height="200" frameX="-21" frameY="-48" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10012" x="10" y="10" width="471" height="190" frameX="0" frameY="-32" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10013" x="10" y="10" width="471" height="190" frameX="0" frameY="-32" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10014" x="491" y="10" width="468" height="190" frameX="-3" frameY="-37" frameWidth="494" frameHeight="281"/>
+	<SubTexture name="leg 10015" x="491" y="10" width="468" height="190" frameX="-3" frameY="-37" frameWidth="494" frameHeight="281"/>
+</TextureAtlas>

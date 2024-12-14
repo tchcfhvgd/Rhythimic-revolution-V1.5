@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Benjamin-legs.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="running 10000" x="621" y="10" width="643" height="303" frameX="-7" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10001" x="621" y="10" width="643" height="303" frameX="-7" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10002" x="1278" y="328" width="669" height="282" frameX="0" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10003" x="1278" y="328" width="669" height="282" frameX="0" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10004" x="573" y="633" width="672" height="275" frameX="-1" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10005" x="573" y="633" width="672" height="275" frameX="-1" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10006" x="10" y="10" width="601" height="325" frameX="-26" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10007" x="10" y="10" width="601" height="325" frameX="-26" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10008" x="10" y="696" width="206" height="401" frameX="-216" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10009" x="10" y="696" width="206" height="401" frameX="-216" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10010" x="1274" y="10" width="628" height="308" frameX="-11" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10011" x="1274" y="10" width="628" height="308" frameX="-11" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10012" x="621" y="328" width="647" height="295" frameX="-4" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10013" x="621" y="328" width="647" height="295" frameX="-4" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10014" x="1278" y="620" width="652" height="289" frameX="-4" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10015" x="1278" y="620" width="652" height="289" frameX="-4" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10016" x="10" y="345" width="553" height="341" frameX="-28" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10017" x="10" y="345" width="553" height="341" frameX="-28" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10018" x="226" y="696" width="200" height="367" frameX="-232" frameY="0" frameWidth="673" frameHeight="401"/>
+	<SubTexture name="running 10019" x="226" y="696" width="200" height="367" frameX="-232" frameY="0" frameWidth="673" frameHeight="401"/>
+</TextureAtlas>
