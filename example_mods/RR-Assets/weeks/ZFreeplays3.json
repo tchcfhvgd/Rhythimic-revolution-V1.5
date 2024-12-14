@@ -1,0 +1,53 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"baking-powder",
+			"icon-alexander",
+			"alexander"
+			[
+				255,
+				187,
+				29
+			]
+		],
+		[
+			"overload-dillawing",
+			"icon-dillaw-overload",
+			"dillaw-overload",
+			[
+				162,
+				42,
+				207
+			]
+		],
+		[
+			"snowmelt",
+			"icon-snow",
+			"snow",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

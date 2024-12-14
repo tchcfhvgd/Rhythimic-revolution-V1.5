@@ -1,0 +1,43 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"crimson-hazard",
+			"icon-robert-parasite",
+			"P-robert"
+			[
+				126,
+				20,
+				40
+			]
+		],
+		[
+			"overload-reactor",
+			"icon-mitori-reactor",
+			"mitori-reactor",
+			[
+				26,
+				135,
+				33
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

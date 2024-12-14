@@ -1,0 +1,52 @@
+{
+	"storyName": "sussy baka idiot shit",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "RED",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		165,
+		0
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"sussus-moogus",
+			"icon-robert",
+			"robert",
+			[
+				180,
+				60,
+				80
+			]
+		],
+		[
+			"kill-shot",
+			"icon-robert",
+			"robert",
+			[
+				180,
+				60,
+				80
+			]
+		],
+		[
+			"overheat",
+			"icon-robert-meltdown",
+			"robert",
+			[
+				180,
+				60,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "week1-red"
+}

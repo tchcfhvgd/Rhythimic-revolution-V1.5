@@ -1,0 +1,43 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"idk-man",
+			"icon-idk",
+			"idk-man",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"inhuman-creature",
+			"icon-jerma",
+			"Jerma-mungus",
+			[
+				166,
+				53,
+				53
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

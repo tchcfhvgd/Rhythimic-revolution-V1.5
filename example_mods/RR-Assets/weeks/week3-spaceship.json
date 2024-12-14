@@ -1,0 +1,72 @@
+{
+	"storyName": "dillaw dillaw yellow",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "yellow",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		165,
+		0
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"dillawing",
+			"icon-dillaw",
+			"dillaw",
+			[
+				180,
+				140,
+				60
+			]
+		],
+		[
+			"supernova",
+			"icon-shiro",
+			"shiro",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"deathrun",
+			"",
+			"deathrun",
+			[
+				46,
+				0,
+				93
+			]
+		],
+		[
+			"perfect-kill",
+			"dad",
+			"perfectkill",
+			[
+				86,
+				0,
+				133
+			]
+		],
+		[
+			"void",
+			"dad",
+			"deathrun",
+			[
+				46,
+				0,
+				93
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": ""
+}

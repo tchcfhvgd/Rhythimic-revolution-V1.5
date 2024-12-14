@@ -1,0 +1,62 @@
+{
+	"storyName": "fanon?",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "green",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		165,
+		0
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"sussus-toogus",
+			"icon-mitori",
+			"mitori",
+			[
+				60,
+				140,
+				60
+			]
+		],
+		[
+			"saboteur",
+			"icon-mitori2",
+			"mitori",
+			[
+				60,
+				140,
+				60
+			]
+		],
+		[
+			"reactor-chan",
+			"icon-mitori-reactor",
+			"mitori-reactor",
+			[
+				60,
+				140,
+				60
+			]
+		],
+		[
+			"metamorphosis",
+			"icon-mitori-ejected",
+			"mitori-meta",
+			[
+				0,
+				40,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": ""
+}
