@@ -98,9 +98,11 @@ class FreeplayState extends MusicBeatState
 
 		for (i in 0...songs.length)
 		{
-			var songText:FlxText = new FlxText(90, 320 + i, 0, songs[i].songName, 24);
-			songText.setFormat(Paths.font("jalnan.ttf"), 29, FlxColor.BLACK, FlxTextAlign.LEFT);
+			var songText:FlxText = new FlxText(90, 320, songs[i].songName, 80);
+			songText.setFormat(Paths.font("jalnan.ttf"), 80, FlxColor.WHITE, RIGHT);
 			songText.ID = i;
+			songText.scrollFactor.set();
+			songText.updateHitbox();
 			grpSongs.add(songText);
 
 
