@@ -102,7 +102,6 @@ class FreeplayState extends MusicBeatState
 			songText.setFormat(Paths.font("jalnan.ttf"), 29, FlxColor.BLACK, FlxTextAlign.LEFT);
 			grpSongs.add(songText);
 
-			songText.scale = Math.min(1, 980 / songText.width);
 
 			Mods.currentModDirectory = songs[i].folder;
 			var icon:HealthIcon = new HealthIcon(songs[i].songCharacter);
@@ -485,16 +484,16 @@ class FreeplayState extends MusicBeatState
 
 		for (i in 0...iconArray.length)
 		{
-			iconArray[i].alpha = 0.6;
+			iconArray[i].alpha = 0;
 		}
 
-		iconArray[curSelected].alpha = 1;
+		iconArray[curSelected].alpha = 0;
 
 		for (item in grpSongs.members)
 		{
 			bullShit++;
 			item.alpha = 0.6;
-			if (item.targetY == curSelected)
+			if (item.ID == curSelected)
 				item.alpha = 1;
 		}
 		
