@@ -40,7 +40,7 @@ class FPSCounter extends TextField
 		selectable = false;
 		mouseEnabled = false;
 		defaultTextFormat = new TextFormat("_sans", 14, color);
-		width = FlxG.width;
+		autoSize = LEFT;
 		multiline = true;
 		text = "FPS: ";
 
