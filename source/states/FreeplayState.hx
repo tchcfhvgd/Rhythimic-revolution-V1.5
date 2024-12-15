@@ -93,7 +93,7 @@ class FreeplayState extends MusicBeatState
 		add(bg);
 		bg.screenCenter();
 
-		grpSongs = new FlxTypedGroup<FlxText>();
+		grpSongs = new FlxTypedGroup<FlxText>;
 		add(grpSongs);
 
 		for (i in 0...songs.length)
