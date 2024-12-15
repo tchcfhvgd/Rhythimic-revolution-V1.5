@@ -546,7 +546,7 @@ class FreeplayState extends MusicBeatState
 		var max:Int = Math.round(Math.max(0, Math.min(songs.length, lerpSelected + _drawDistance)));
 		for (i in min...max)
 		{
-			var item:item = grpSongs.members[i];
+			var item:FlxText = grpSongs.members[i];
 			item.visible = item.active = true;
 
 			var icon:HealthIcon = iconArray[i];
